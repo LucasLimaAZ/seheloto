@@ -1,0 +1,36 @@
+/*for all the levels*/
+body{
+    background-color:#000;
+}
+/*index*/
+.start_button{
+    text-align: center;
+    margin-top:20%;
+}
+/*level 1*/
+.hand{
+    text-align: center;
+}
+.hint{
+    color:#fff;
+    text-align: center;
+    margin-top: 20%;
+}
+/*level 2*/
+.toasty{
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+/*level 3*/
+.binary_code{
+    color:#fff;
+    text-align: center;
+    margin-top: 20%;
+}
+/*level 4*/
+.dolor_sit_amet{
+    text-align: center;
+    color:#fff;
+    margin-top:20%;
+}
